@@ -19,14 +19,10 @@
 ---
 
 ### 🛠️ **Languages & Tools**
-#### 💻 **Programming & Scripting**
-- Python | Rust | SQL | Bash  
 
-#### 📊 **Data Engineering**
-- Apache Kafka | Apache Airflow | Spark | Pandas | NumPy  
-
-#### 🗄️ **Databases**
-- PostgreSQL | MySQL | SQLite  
-
-#### ☁️ **Cloud & DevOps**
-- AWS | Docker | Linux | Git  
+| **Category**            | **Tools**                                    |
+|--------------------------|----------------------------------------------|
+| 💻 **Programming & Scripting** | Python, Rust, SQL, Bash                    |
+| 📊 **Data Engineering**  | Apache Kafka, Apache Airflow, Spark, Pandas, NumPy |
+| 🗄️ **Databases**         | PostgreSQL, MySQL, SQLite                    |
+| ☁️ **Cloud & DevOps**    | AWS, Docker, Linux, Git                      |
