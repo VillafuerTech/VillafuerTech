@@ -7,7 +7,6 @@
 - 🔭 **Current Focus:** Developing efficient data pipelines and mastering data processing techniques.  
 - 🌱 **Currently Learning:** Python, Rust, SQL, and Bash to sharpen my technical skillset.  
 - 👯 **Open to Collaborate On:** Data engineering projects, ETL pipelines, and analytics solutions.  
-- 📝 **I Write About:** Tips, tricks, and experiences in data engineering on [Your Blog/Portfolio Link].  
 - 💬 **Ask Me About:** Data workflows, SQL optimization, Python scripting, or career advice in tech.  
 
 ---
