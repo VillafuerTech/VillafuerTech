@@ -1,4 +1,4 @@
-### 🚀 **Aspiring Data Scientist | Lifelong Learner**
+### 🚀 **Data Scientist | Lifelong Learner**
 ---
 
 ### 🌟 **About Me**
